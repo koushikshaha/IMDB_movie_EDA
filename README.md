@@ -40,9 +40,8 @@ over time, and outlier handling.
 
 ## How to Run
 1. Clone this repository
-2. Open `G01_mid_project.R` in RStudio
+2. Open `IMDB_movie_EDA.R` in RStudio
 3. Run the script (it will auto-install required packages)
 4. Data is fetched automatically from Google Drive — no manual download needed
 
-## Authors
-Group 01
+
